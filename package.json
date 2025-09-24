@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bulma": "^1.0.4"
+  },
+  "name": "meu_cadastro",
+  "version": "1.0.0",
+  "description": "Aplicação web de cadastro de visualização de dados pessoais",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendersonline/Meu_Cadastro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendersonline/Meu_Cadastro/issues"
+  },
+  "homepage": "https://github.com/wendersonline/Meu_Cadastro#readme"
+}
