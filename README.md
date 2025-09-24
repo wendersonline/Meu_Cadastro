@@ -56,7 +56,7 @@ Sistema web para cadastro e visualização de dados de pessoas com base no CPF, 
 - Use a barra de pesquisa para filtrar por nome ou CPF
 - Clique em "Sair" para fazer logout
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **Backend**: Node.js
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
